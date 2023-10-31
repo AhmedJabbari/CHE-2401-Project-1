@@ -8,9 +8,12 @@ The collected data is related to 110 pipelines with their average gas flowrate f
 
 # Analysis Summary: 
 Initially, I plotted the water cut % versus corrosion rate % to find out if there is a linear relationship between the two: 
+
+
 ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/16bb47fa-843e-4c18-bfe8-0581911d2f6a)
 
- ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/acaf10ea-3d06-4f1d-93a4-7b9f587b13a1)
+ ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/20a62018-94d6-43d6-9266-39621a749f95)
+
 
 By just looking at the graph I can see that there is a linear relationship between the water cut % and the corrosion rate % and to confirm that I used Python’s OLS linear regression model package, I found that the Corrosion Rate %=0.1429* Water Cut% -0.4131 and the p-value for water cut % is less than 0.05, which indicates that there is a statistical significant positive linear relationship between the water cut % and the corrosion rate %, meaning that as the water % increase, the corrosion rate tends to increase. In fact, this observation is expected because as the amount of water increase there will more water accumulated inside the pipe, which will react with iron and cause internal corrosion in the pipe.   
 
@@ -18,16 +21,22 @@ Then, I plotted gas flowrate versus the corrosion rate % and I applied the Pytho
 
 ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/704f166f-184c-4635-894f-d5b53fccd599)
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/a59602e0-f91a-40b8-9f66-a10d748205ad)
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/a9db29b0-70db-4c9d-9523-7f756b869e59)
+
 
  
-## Linear Models Considering Two Factors:
+## Linear Models Considering Two Factors: 
 To figure out which parameter has more effect on corrosion rate %, I used linear models considering two factors. The result shows that Corrosion Rate % = -0.366 * Gas-Flowrate + 0.1298 * Water Cut % + 1.43 and the p-values less than 0.05 indicates that the relationships between these variables and the corrosion rate are statistically significant. So, based on this model, it appears that water percentage has a stronger positive effect on corrosion rate than flowrate has a negative effect.
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/a675f50e-8076-428d-9d00-f00e44475dda)
+
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/bff8e49c-a0f6-426f-bcbc-7f207dbb171c)
+
 
  ## Linear Models Considering Two Factors with Interactions:
 At the final stage of my analysis, I utilized linear models considering two factors with interactions to find if there is an interaction between the operating parameters, I got that the Corrosion Rate% = -0.0234* Gas-Flowrate+0.244* Water Cut %-0.0263*Gas-Flowrate*Water Cut % - 0.151. The p-value is less than 0.05 of gas-flowrate*water% which suggests that there is an interaction between gas-flowrate and water cut % and this interaction is highly significant in predicting corrosion rate %.
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/98f9c36a-ab0e-4a74-b2ea-24f5613d7104)
+
+
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/ac4e2cd7-84c9-4885-896c-0a5fa3409bda)
+
 
  
 # Conclusion:
