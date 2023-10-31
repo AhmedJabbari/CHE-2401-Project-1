@@ -13,9 +13,11 @@ The collected data is related to 110 pipelines with their average gas flowrate f
 Initially, I plotted the water cut % versus corrosion rate % to find out if there is a linear relationship between the two: 
 
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/16bb47fa-843e-4c18-bfe8-0581911d2f6a)
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/319f73f4-38f0-49b8-8996-ce1dc21139dd)
 
- ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/20a62018-94d6-43d6-9266-39621a749f95)
+
+ ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/4e6a3756-99d4-4949-9981-627d9df7855a)
+
 
 
 By just looking at the graph I can see that there is a linear relationship between the water cut % and the corrosion rate % and to confirm that I used Python’s OLS linear regression model package, I found that the Corrosion Rate %=0.1429* Water Cut% -0.4131 and the p-value for water cut % is less than 0.05, which indicates that there is a statistical significant positive linear relationship between the water cut % and the corrosion rate %, meaning that as the water % increase, the corrosion rate tends to increase. In fact, this observation is expected because as the amount of water increase there will more water accumulated inside the pipe, which will react with iron and cause internal corrosion in the pipe.   
