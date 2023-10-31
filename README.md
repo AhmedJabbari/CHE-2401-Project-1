@@ -19,7 +19,8 @@ By just looking at the graph I can see that there is a linear relationship betwe
 
 Then, I plotted gas flowrate versus the corrosion rate % and I applied the Python’s OLS linear regression model package, I found that the Corrosion Rate %=-0.5* Gas-Flowrate +0.4131 and the p-value for gas flowrate is less than 0.05, which indicates that there is a statistical significant negative linear relationship between the gas flowrate and the corrosion rate %, meaning that as the gas flowrate increase, the corrosion rate will increase. This observation is expected as the flowrate increase the fluid velocity will increase and minimize the water accumulation at the bottom of the pipe. 
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/704f166f-184c-4635-894f-d5b53fccd599)
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/34a6453a-9fa0-40f1-a0a3-50152ee93397)
+
 
 ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/a9db29b0-70db-4c9d-9523-7f756b869e59)
 
