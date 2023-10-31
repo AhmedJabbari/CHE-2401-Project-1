@@ -2,8 +2,11 @@
 
 # Background and Analysis Motivation:
 Corrosion is one of the greatest challenges in the oil and gas industry. There are multiples methods which are used in industry to control corrosion inside carbon steel pipes such as chemical injection (corrosion inhibitor). However, most of these methods are expensive and they consume up to 20% of the operating cost. My role as an operation engineer at one of the oil and gas companies is to develop an economical mechanism to control corrosion rates and operate with more efficiency. 
+
 Therefore, I decided to analyze the historical data of operating parameters (gas flowrate and water cut %) of number of carbon steel pipelines that are used to transport a natural gas and try to capture the most contributing factor to the corrosion in terms of operation parameters. Then, develop a controlling method to minimize/eliminate the corrosion inside gas pipelines. 
+
 In fact, there are several factors which can cause corrosion. These factors are not limited to the operation parameters, but they could involve other factors such as pipelines configuration (geometries). In my analysis, I am neglecting other corrosion factors since there is no enough information about them and they are not measurable.  In addition to that I am assuming that all these pipelines have the same diameter and length. 
+
 The collected data is related to 110 pipelines with their average gas flowrate for two years in MMSCFD, water cut % from the total flowrate and the measured corrosion rate % (The percentage of metal loss) inside the pipes using an instrument in-line scraper which is being utilized to measure the metal loss inside the pipelines. 
 
 # Analysis Summary: 
