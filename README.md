@@ -32,7 +32,7 @@ Then, I plotted gas flowrate versus the corrosion rate % and I applied the Pytho
 
 
  
-# Linear Models Considering Two Factors:
+  ## Linear Models Considering Two Factors:
 
 
 To figure out which parameter has more effect on corrosion rate %, I used linear models considering two factors. The result shows that Corrosion Rate % = -0.366 * Gas-Flowrate + 0.1298 * Water Cut % + 1.43 and the p-values less than 0.05 indicates that the relationships between these variables and the corrosion rate are statistically significant. So, based on this model, it appears that water percentage has a stronger positive effect on corrosion rate than flowrate has a negative effect.
