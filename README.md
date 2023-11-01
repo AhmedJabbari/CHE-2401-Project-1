@@ -1,4 +1,4 @@
-# Titled: Analyzing Corrosion Rate % in Carbon Steel Pipelines Considering the Gas Flowrate and Water Cut %. 
+# Titled: Analyzing Corrosion Rate % in Carbon Steel Pipelines Considering the Gas Flowrate and Water Cut %
 
 # Background and Analysis Motivation:
 Corrosion is one of the greatest challenges in the oil and gas industry. There are multiples methods which are used in industry to control corrosion inside carbon steel pipes such as chemical injection (corrosion inhibitor). However, most of these methods are expensive and they consume up to 20% of the operating cost. My role as an operation engineer at one of the oil and gas companies is to develop an economical mechanism to control corrosion rates and operate with more efficiency. 
