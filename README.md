@@ -31,7 +31,9 @@ Then, I plotted gas flowrate versus the corrosion rate % and gas flowrate group 
   ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/032984e0-b6f5-42ef-a37d-f7ddd1c446c6)
 
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/b79e04bc-fb9d-4d57-8acc-b652df737c80)
+
+ ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/c7178131-ff47-4541-a151-eebd45ec9d72)
+
 
 
 
