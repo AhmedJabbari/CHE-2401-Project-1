@@ -42,7 +42,7 @@ Then, I plotted gas flowrate versus the corrosion rate % and gas flowrate group 
 
 
  
-  ## Linear Models Considering Two Factors:
+  ## Linear Model Considering Two Factors:
 
 
 To figure out which parameter has more effect on corrosion rate %, I used linear models considering two factors. The result shows that Corrosion Rate % = -0.366 * Gas-Flowrate + 0.1298 * Water Cut % + 1.43 and the p-values less than 0.05 indicates that the relationships between these variables and the corrosion rate are statistically significant. So, based on this model, it appears that water percentage has a stronger positive effect on corrosion rate than flowrate has a negative effect. To find a correlation between gas flowrate and water cut % when the corrosion rate % is equal to zero, I put corrosion Rate % equal to zero and then, I solve for water cut % in term of gas flowrate. I found that Water Cut %= 2.81*Gas-Flowrate -11, and mathematically speaking as long as value of the Gas-Flowrate or Water Cut % is calculated by that equation then the corrosion rate % should be zero.  
@@ -52,7 +52,7 @@ To figure out which parameter has more effect on corrosion rate %, I used linear
 
 
 
- ## Linear Models Considering Two Factors with Interactions:
+ ## Linear Model Considering Two Factors with Interactions:
 
 At the final stage of my analysis, I utilized linear models considering two factors with interactions to find if there is an interaction between the operating parameters, I got that the Corrosion Rate% = -0.275* Gas-Flowrate+0.15* Water-Cut % -0.81*Gas-Flowrate-Group*Water-Cut-%-Group + 0.95. The p-value of the flowrate-group*water-cut-%-group is less than 0.05 which suggests that there is an interaction between flowrate and water cut % and this interaction is highly significant in predicting corrosion rate %.
 
