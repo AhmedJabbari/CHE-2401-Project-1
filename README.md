@@ -15,7 +15,8 @@ Initially, I plotted the water cut % versus corrosion rate % and water cut % gro
   ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/319f73f4-38f0-49b8-8996-ce1dc21139dd)
 
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/e5a0e119-ccb1-49ed-9633-1da35cc27a51)
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/df890796-2199-43c5-8be3-fadd60a7dde8)
+
 
 
   ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/4e6a3756-99d4-4949-9981-627d9df7855a)
@@ -29,7 +30,8 @@ Then, I plotted gas flowrate versus the corrosion rate % and gas flowrate group 
   ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/032984e0-b6f5-42ef-a37d-f7ddd1c446c6)
 
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/354cc179-77ca-43b2-8f14-e3887ddde74f)
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/b79e04bc-fb9d-4d57-8acc-b652df737c80)
+
 
 
 
@@ -52,7 +54,8 @@ To figure out which parameter has more effect on corrosion rate %, I used linear
 At the final stage of my analysis, I utilized linear models considering two factors with interactions to find if there is an interaction between the operating parameters, I got that the Corrosion Rate% = -0.275* Gas-Flowrate+0.15* Water Cut % -0.81*Gas-Flowrate-Group*Water-Cut %-Group + 0.95. The p-value of the flowrate-group*water cut %-group is less than 0.05 which suggests that there is an interaction between flowrate and water cut % and this interaction is highly significant in predicting corrosion rate %.
 
 
-  ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/c63566ae-e3fb-4b25-b23e-6737a6e13bca)
+  ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/4f358eab-710e-456e-ad5c-0448e8a0acff)
+
 
 
 
