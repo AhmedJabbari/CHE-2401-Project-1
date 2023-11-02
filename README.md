@@ -10,7 +10,7 @@ In fact, there are several factors which can cause corrosion. These factors are 
 The collected data is related to 110 pipelines with their average gas flowrate for two years in MMSCFD, water cut % from the total flowrate and the measured corrosion rate % (The percentage of metal loss) inside the pipes using an instrument in-line scraper which is being utilized to measure the metal loss inside the pipelines. 
 
 # Analysis Summary: 
-Initially, I plotted the water cut % versus corrosion rate % and water cut % group versus corrosin rate % to find out if there is a linear relationship between: 
+Initially, I plotted the water cut % versus corrosion rate % and water cut % group versus corrosin rate % to find out if there is a linear relationship: 
 
   ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/319f73f4-38f0-49b8-8996-ce1dc21139dd)
 
