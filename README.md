@@ -53,12 +53,10 @@ To figure out which parameter has more effect on corrosion rate %, I used linear
 
 
  ## Linear Models Considering Two Factors with Interactions:
-At the final stage of my analysis, I utilized linear models considering two factors with interactions to find if there is an interaction between the operating parameters, I got that the Corrosion Rate% = -0.275* Gas-Flowrate+0.15* Water Cut % -0.81*Gas-Flowrate-Group*Water-Cut %-Group + 0.95. The p-value of the flowrate-group*water cut %-group is less than 0.05 which suggests that there is an interaction between flowrate and water cut % and this interaction is highly significant in predicting corrosion rate %.
+At the final stage of my analysis, I utilized linear models considering two factors with interactions to find if there is an interaction between the operating parameters, I got that the Corrosion Rate% = -0.275* Gas_Flowrate+0.15* Water Cut % -0.81*Gas_Flowrate_Group*Water_Cut_%_Group + 0.95. The p-value of the flowrate_group*water_cut_%_group is less than 0.05 which suggests that there is an interaction between flowrate and water cut % and this interaction is highly significant in predicting corrosion rate %.
 
 
-  ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/4f358eab-710e-456e-ad5c-0448e8a0acff)
-
-
+  ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/86a3a74e-b246-4bd7-a683-ad142404eb2d)
 
 
  
