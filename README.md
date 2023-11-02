@@ -15,7 +15,8 @@ Initially, I plotted the water cut % versus corrosion rate % and water cut % gro
   ![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/319f73f4-38f0-49b8-8996-ce1dc21139dd)
 
 
-![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/df890796-2199-43c5-8be3-fadd60a7dde8)
+![image](https://github.com/AhmedJabbari/CHE-2410-Project-1/assets/148829971/2f6db0de-4594-4633-9232-38cf6ced3742)
+
 
 
 
